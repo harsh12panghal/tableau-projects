@@ -8,7 +8,7 @@ Explore a collection of visually engaging and insightful Tableau projects showca
 ## Sales Analysis 
 This project aims to provide a deep dive into understanding the factors contributing to a company's loss of sales and profits across multiple years. Through interactive visualizations and detailed data analysis, we've uncovered insights crucial for understanding the company's financial performance.
 
-<img width="1082" alt="Screenshot 2023-12-11 at 12 56 34 PM" src="https://github.com/harsh12panghal/tableau-projects/assets/102521089/f65330f8-15d3-424e-835d-b790c94630d5">
+<img width="1017" alt="Screenshot 2023-12-11 at 2 59 00 PM" src="https://github.com/harsh12panghal/tableau-projects/assets/102521089/56c65280-e8b1-4fb1-96a4-6fc596664595">
 
 
 ## HR Analysis 
