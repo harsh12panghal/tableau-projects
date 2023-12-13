@@ -15,3 +15,11 @@ This project aims to provide a deep dive into understanding the factors contribu
 In this insightful showcase, I work on an oranizations HR data. Through intuitive visualizations, I unveil the employee count dynamics and delve deeper into the critical aspect of attrition within our talented team. This tableau presentation illuminates the patterns, trends, and factors influencing attrition, offering a comprehensive understanding of our workforce dynamics for informed decision-making and strategic planning.
 
 <img width="1001" alt="Screenshot 2023-12-12 at 1 56 52 PM" src="https://github.com/harsh12panghal/tableau-projects/assets/102521089/3f385848-de49-429e-b9aa-651349ac0a22">
+
+
+## Emergency Room Patient Data Analysis
+
+
+
+https://github.com/harsh12panghal/tableau-projects/assets/102521089/5846cd34-f8a7-4687-bb96-ba81739a9009
+
